@@ -16,3 +16,14 @@
 Thumbs.db
 Desktop.ini
 arquivos-antigos/
+
+# credencias e confuigurações locais
+.env
+.env.*
+!.env.example
+db.properties
+/db.properties
+
+# Arquivos gerados pelo Maven
+target/
+/target/
