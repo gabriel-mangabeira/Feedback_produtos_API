@@ -84,7 +84,7 @@ Esta é a forma recomendada para testar o projeto, pois permite iniciar a aplica
 ### 1. Obter o projeto
 
 ```bash
-git clone https://github.com/Aplicacoes-para-internet/Feedback_produtos.git
+git clone https://github.com/gabriel-mangabeira/Feedback_produtos_API.git
 cd Feedback_produtos
 ```
 
